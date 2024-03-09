@@ -110,8 +110,6 @@ PlasmoidItem {
 
 	compactRepresentation: CRep { }
 
-	compactRepresentation: CRep { }
-
 	fullRepresentation: FRep { }
 
 	PagerModel {
