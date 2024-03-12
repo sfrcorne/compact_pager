@@ -87,11 +87,11 @@
         "Description[zh_TW]": "在虛擬桌面間切換",
         "EnabledByDefault": true,
         "Icon": "user-desktop",
-        "Id": "com.github.tilorenz.compact_pager",
+        "Id": "com.github.sfrcorne.compact_pager",
         "License": "GPL-3.0+",
         "Name": "Compact Pager",
         "Version": "3.1",
-        "Website": "https://github.com/tilorenz/compact_pager"
+        "Website": "https://github.com/sfrcorne/compact_pager"
     },
     "X-Plasma-API-Minimum-Version": "6.0",
     "X-Plasma-Provides": [
